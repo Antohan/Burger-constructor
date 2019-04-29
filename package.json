@@ -1,7 +1,6 @@
 {
   "name": "react-complete-guide",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
     "axios": "^0.18.0",
